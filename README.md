@@ -11,6 +11,7 @@
 ## Projects
 
 1. **VidSphere** – [Live Demo](https://vidsphere-frontend.onrender.com)  
+   **Github** – [Source Code](https://github.com/sourabh-yalagod/Full-stack-React-video-project)  
    *Full Stack Video Handling Platform*  
    A MERN-based YouTube clone where users can upload, watch, like, and comment on videos. Features JWT-based authentication, infinite scrolling, and user dashboards.
 
@@ -19,10 +20,12 @@
    Built a scalable crypto trading system with custom order matching engine, Redis Pub/Sub, WebSockets, and microservice architecture for performance and fault tolerance.
 
 3. **SynapseAI** – [Live Demo](https://ai-pdf-reader.vercel.app)  
+    **GitHub** – [Source Code](https://github.com/sourabh-yalagod/SynapseAI)  
    *AI-Powered Chat App with PDF Support*  
    A Next.js app using OpenAI, LangChain, and RAG pipeline to chat with uploaded PDFs. Integrated Stripe for subscription and role-based access.
 
 4. **LMS (Learning Management System)** – [Live Demo](https://lms-build-gilt.vercel.app)  
+   **LMS (Girhub)** – [Source Code](https://github.com/sourabh-yalagod/lms-build)  
    *Full Stack Role-Based LMS*  
    Developed a role-based system for students and teachers to create, manage, and access course content. Supports authentication, file uploads, and dashboard analytics.
 
