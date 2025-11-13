@@ -20,7 +20,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🪙 [Crypto Exchange Platform](https://main.d2y2jk4cvn2s0d.amplifyapp.com) — [GitHub](https://github.com/sourabh-yalagod/high-frequency-trading-using-spring-boot)
+#### 🪙 [Crypto Exchange Platform] - [Live Site](https://main.d2y2jk4cvn2s0d.amplifyapp.com) — [GitHub](https://github.com/sourabh-yalagod/high-frequency-trading-using-spring-boot)
 > **6 Microservice-Based Trading System** built using **Spring Boot**, **React**, **Redis**, and **PostgreSQL**.  
 > - Designed a **real-time trading engine** with Redis ZSET for high-frequency order matching.  
 > - Integrated **Spring Security (JWT + SSO)** for secure user authentication.  
@@ -29,7 +29,7 @@
 
 ---
 
-#### 🎬 [VidSphere](https://vidsphere-frontend.onrender.com) — [GitHub](https://github.com/sourabh-yalagod/Full-stack-React-video-project)
+#### 🎬 [VidSphere] - [Live Site](https://vidsphere-frontend.onrender.com) — [GitHub](https://github.com/sourabh-yalagod/Full-stack-React-video-project)
 > A **MERN-based YouTube clone** featuring JWT authentication, video uploads, likes, and comments.  
 > - Built using **React.js, Tailwind CSS, React Query, Shadcn UI**.  
 > - **Backend:** Node.js, Express.js, MongoDB, JWT auth.  
@@ -37,7 +37,7 @@
 
 ---
 
-#### 🤖 [SynapseAI](https://ai-pdf-reader.vercel.app) — [GitHub](https://github.com/sourabh-yalagod/SynapseAI)
+#### 🤖 [SynapseAI] - [Live Site](https://ai-pdf-reader.vercel.app) — [GitHub](https://github.com/sourabh-yalagod/SynapseAI)
 > **AI-powered chat app** with PDF understanding.  
 > - Built using **Next.js**, **LangChain**, and **OpenAI API**.  
 > - Allows chatting with uploaded PDFs using **RAG (Retrieval-Augmented Generation)**.  
@@ -45,7 +45,7 @@
 
 ---
 
-#### 📚 [Learning Management System (LMS)](https://lms-build-gilt.vercel.app) — [GitHub](https://github.com/sourabh-yalagod/lms-build)
+#### 📚 [Learning Management System (LMS)] - [Live Site](https://lms-build-gilt.vercel.app) — [GitHub](https://github.com/sourabh-yalagod/lms-build)
 > Role-based LMS platform for students and teachers.  
 > - Built with **Next.js, Node.js, and MongoDB**.  
 > - Features **role-based access**, **file uploads**, and **dashboard analytics**.  
