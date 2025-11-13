@@ -23,15 +23,6 @@
 
 ---
 
-### 🧭 About Me
-- 💻 I’m a **Full Stack Developer** passionate about building robust, distributed, and performant web applications.  
-- 🌱 Currently learning **Microservices, Spring Boot & System Design** for scalable backend development.  
-- ⚡ I love working with **React, Node.js, Spring Boot, and AWS** for end-to-end solutions.  
-- 📫 Reach me at **[sourabhofficial99804@gmail.com](mailto:sourabhofficial99804@gmail.com)**  
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1g1W4TF5navQXdr_fI9F69UkXLq3Bp59P/view?usp=drive_link)
-
----
-
 ### 🚀 Featured Projects
 
 #### 🪙 [Crypto Exchange Platform] - [Live Site](https://main.d2y2jk4cvn2s0d.amplifyapp.com) — [GitHub](https://github.com/sourabh-yalagod/high-frequency-trading-using-spring-boot)
@@ -40,6 +31,15 @@
 > - Integrated **Spring Security (JWT + SSO)** for secure user authentication.  
 > - Used **AWS Lambda & Amplify** for a distributed, serverless deployment.  
 > - Implemented **SSE (Server-Sent Events)** for live orderbook updates.
+
+---
+
+### 🧭 About Me
+- 💻 I’m a **Full Stack Developer** passionate about building robust, distributed, and performant web applications.  
+- 🌱 Currently learning **Microservices, Spring Boot & System Design** for scalable backend development.  
+- ⚡ I love working with **React, Node.js, Spring Boot, and AWS** for end-to-end solutions.  
+- 📫 Reach me at **[sourabhofficial99804@gmail.com](mailto:sourabhofficial99804@gmail.com)**  
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1g1W4TF5navQXdr_fI9F69UkXLq3Bp59P/view?usp=drive_link)
 
 ---
 
