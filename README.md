@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Sourabh Yalagod</span></h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate about building scalable systems with React, Node.js & Spring Boot</h3>
+<h3 align="center">🚀 Full Stack Developer | Java Spring Boot | MERN Stack | AWS Deployment</h3>
 
 <p align="center">
   <a href="mailto:sourabhofficial99804@gmail.com"><img src="https://img.shields.io/badge/-sourabhofficial99804@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
@@ -20,6 +20,13 @@
 | **Programming** | Java, JavaScript |
 | **Tools** | Git, Postman, Yodiz |
 | **Core Concepts** | DSA, System Design, Communication Skills |
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,mongodb,postgres,redis,docker,aws,git,java,linux,python,spring" />
+</p>
 
 ---
 
@@ -63,13 +70,6 @@
 > Role-based LMS platform for students and teachers.  
 > - Built with **Next.js, Node.js, and MongoDB**.  
 > - Features **role-based access**, **file uploads**, and **dashboard analytics**.  
-
----
-
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,mongodb,postgres,redis,docker,aws,git,java,linux,python,spring" />
-</p>
 
 ---
 
