@@ -1,42 +1,93 @@
-<h1 align="center">Hi 👋, I'm Sourabh Yalagod</h1>
-<h3 align="center">I am full stack developer, looking for junior developer Role and Ready to work in frontend and backend technologies.</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Sourabh Yalagod</span></h1>
+<h3 align="center">🚀 Full Stack Developer | Passionate about building scalable systems with React, Node.js & Spring Boot</h3>
 
-- 🔭 I’m currently working on [Crypto Exchange](https://github.com/sourabh-yalagod/Exchange)
-
-- 🌱 I’m currently learning **backend Microservices and scaling applications**
-
-- 📫 Email **sourabhofficial99804@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1va4ZM_UGk2Y16uNojEY3PWDzl4Fhr2j-/view?usp=drive_link](https://drive.google.com/file/d/1kgvI-Ifqs5tCQIvs3XHIMAukjRmoBIUG/view?usp=drive_link)
-## Projects
-
-1. **VidSphere** – [Live Demo](https://vidsphere-frontend.onrender.com)  
-   **Github** – [Source Code](https://github.com/sourabh-yalagod/Full-stack-React-video-project)  
-   *Full Stack Video Handling Platform*  
-   A MERN-based YouTube clone where users can upload, watch, like, and comment on videos. Features JWT-based authentication, infinite scrolling, and user dashboards.
-
-2. **Crypto Exchange** – [GitHub Repo](https://github.com/sourabh-yalagod/Exchange)  
-   *Backend-Heavy Microservice App*  
-   Built a scalable crypto trading system with custom order matching engine, Redis Pub/Sub, WebSockets, and microservice architecture for performance and fault tolerance.
-
-3. **SynapseAI** – [Live Demo](https://ai-pdf-reader.vercel.app)  
-    **GitHub** – [Source Code](https://github.com/sourabh-yalagod/SynapseAI)  
-   *AI-Powered Chat App with PDF Support*  
-   A Next.js app using OpenAI, LangChain, and RAG pipeline to chat with uploaded PDFs. Integrated Stripe for subscription and role-based access.
-
-4. **LMS (Learning Management System)** – [Live Demo](https://lms-build-gilt.vercel.app)  
-   **LMS (Girhub)** – [Source Code](https://github.com/sourabh-yalagod/lms-build)  
-   *Full Stack Role-Based LMS*  
-   Developed a role-based system for students and teachers to create, manage, and access course content. Supports authentication, file uploads, and dashboard analytics.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sourabh_yalagod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sourabh_yalagod" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sourabh-yalagod/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sourabh-yalagod/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/sourabh9980/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sourabh9980/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:sourabhofficial99804@gmail.com"><img src="https://img.shields.io/badge/-sourabhofficial99804@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sourabh-yalagod"><img src="https://img.shields.io/badge/-Sourabh%20Yalagod-blue?style=flat&logo=Linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sourabh-yalagod"><img src="https://img.shields.io/badge/-@sourabh--yalagod-black?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabh-yalagod&show_icons=true&locale=en&layout=compact" alt="sourabh-yalagod" /></p>
+### 🧭 About Me
+- 💻 I’m a **Full Stack Developer** passionate about building robust, distributed, and performant web applications.  
+- 🌱 Currently learning **Microservices, Spring Boot & System Design** for scalable backend development.  
+- ⚡ I love working with **React, Node.js, Spring Boot, and AWS** for end-to-end solutions.  
+- 📫 Reach me at **[sourabhofficial99804@gmail.com](mailto:sourabhofficial99804@gmail.com)**  
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1kgvI-Ifqs5tCQIvs3XHIMAukjRmoBIUG/view?usp=drive_link)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🪙 [Crypto Exchange Platform](https://main.d2y2jk4cvn2s0d.amplifyapp.com) — [GitHub](https://github.com/sourabh-yalagod/high-frequency-trading-using-spring-boot)
+> **6 Microservice-Based Trading System** built using **Spring Boot**, **React**, **Redis**, and **PostgreSQL**.  
+> - Designed a **real-time trading engine** with Redis ZSET for high-frequency order matching.  
+> - Integrated **Spring Security (JWT + SSO)** for secure user authentication.  
+> - Used **AWS Lambda & Amplify** for a distributed, serverless deployment.  
+> - Implemented **SSE (Server-Sent Events)** for live orderbook updates.
+
+---
+
+#### 🎬 [VidSphere](https://vidsphere-frontend.onrender.com) — [GitHub](https://github.com/sourabh-yalagod/Full-stack-React-video-project)
+> A **MERN-based YouTube clone** featuring JWT authentication, video uploads, likes, and comments.  
+> - Built using **React.js, Tailwind CSS, React Query, Shadcn UI**.  
+> - **Backend:** Node.js, Express.js, MongoDB, JWT auth.  
+> - Integrated **Cloudinary** for media uploads and **React Query** for infinite scrolling.  
+
+---
+
+#### 🤖 [SynapseAI](https://ai-pdf-reader.vercel.app) — [GitHub](https://github.com/sourabh-yalagod/SynapseAI)
+> **AI-powered chat app** with PDF understanding.  
+> - Built using **Next.js**, **LangChain**, and **OpenAI API**.  
+> - Allows chatting with uploaded PDFs using **RAG (Retrieval-Augmented Generation)**.  
+> - Integrated **Stripe** for subscription-based access.
+
+---
+
+#### 📚 [Learning Management System (LMS)](https://lms-build-gilt.vercel.app) — [GitHub](https://github.com/sourabh-yalagod/lms-build)
+> Role-based LMS platform for students and teachers.  
+> - Built with **Next.js, Node.js, and MongoDB**.  
+> - Features **role-based access**, **file uploads**, and **dashboard analytics**.  
+
+---
+
+### 🧠 Technical Skills
+
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Next.js, Redux, Tailwind CSS, REST APIs |
+| **Backend** | Node.js, Express.js, Spring Boot, Microservices, JWT, Caching |
+| **Databases** | MongoDB, PostgreSQL, Redis, Vector DBs |
+| **Cloud / DevOps** | AWS (EC2, Lambda, ECS, SNS, SQS), Docker |
+| **Programming** | Java, JavaScript |
+| **Tools** | Git, Postman, Yodiz |
+| **Core Concepts** | DSA, System Design, Communication Skills |
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,mongodb,postgres,redis,docker,aws,git,java,linux,python,spring" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/sourabh_yalagod" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sourabh-yalagod" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sourabh9980/" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white" /></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sourabh-yalagod&show_icons=true&theme=radical" alt="sourabh-yalagod stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-yalagod&layout=compact&theme=radical" alt="top languages" height="160"/>
+</p>
+
+---
+
+<p align="center">💬 “Code. Build. Deploy. Repeat.” – Always exploring ways to make systems faster & smarter.</p>
