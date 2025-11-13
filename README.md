@@ -9,6 +9,20 @@
 
 ---
 
+### 🧠 Technical Skills
+
+| **Category** | **Technologies** |
+|---------------|------------------|
+| **Frontend** | HTML5, CSS3, JavaScript, React.js, Next.js, Redux, Tailwind CSS, REST APIs |
+| **Backend** | Node.js, Express.js, Spring Boot, Microservices, JWT, Caching |
+| **Databases** | MongoDB, PostgreSQL, Redis, Vector DBs |
+| **Cloud / DevOps** | AWS (EC2, Lambda, ECS, SNS, SQS), Docker |
+| **Programming** | Java, JavaScript |
+| **Tools** | Git, Postman, Yodiz |
+| **Core Concepts** | DSA, System Design, Communication Skills |
+
+---
+
 ### 🧭 About Me
 - 💻 I’m a **Full Stack Developer** passionate about building robust, distributed, and performant web applications.  
 - 🌱 Currently learning **Microservices, Spring Boot & System Design** for scalable backend development.  
@@ -49,20 +63,6 @@
 > Role-based LMS platform for students and teachers.  
 > - Built with **Next.js, Node.js, and MongoDB**.  
 > - Features **role-based access**, **file uploads**, and **dashboard analytics**.  
-
----
-
-### 🧠 Technical Skills
-
-| **Category** | **Technologies** |
-|---------------|------------------|
-| **Frontend** | HTML5, CSS3, JavaScript, React.js, Next.js, Redux, Tailwind CSS, REST APIs |
-| **Backend** | Node.js, Express.js, Spring Boot, Microservices, JWT, Caching |
-| **Databases** | MongoDB, PostgreSQL, Redis, Vector DBs |
-| **Cloud / DevOps** | AWS (EC2, Lambda, ECS, SNS, SQS), Docker |
-| **Programming** | Java, JavaScript |
-| **Tools** | Git, Postman, Yodiz |
-| **Core Concepts** | DSA, System Design, Communication Skills |
 
 ---
 
