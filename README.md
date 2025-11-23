@@ -46,7 +46,7 @@
 - 🌱 Currently learning **Microservices, Spring Boot & System Design** for scalable backend development.  
 - ⚡ I love working with **React, Node.js, Spring Boot, and AWS** for end-to-end solutions.  
 - 📫 Reach me at **[sourabhofficial99804@gmail.com](mailto:sourabhofficial99804@gmail.com)**  
-- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1g1W4TF5navQXdr_fI9F69UkXLq3Bp59P/view?usp=drive_link)
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1rhH-5zq9J8sQoBVo9vzr4ieMbzkLETke/view?usp=sharing)
 
 ---
 
