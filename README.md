@@ -23,6 +23,18 @@
 
 ---
 
+### 💼 Experience
+
+#### **Software Engineer Intern — 0101 Digit All**  
+**June 2025 – September 2025**
+
+- Resolved **40+ production bugs** and merged **50+ PRs** in a large-scale FinTech application with full QA verification.
+- Built a **Webinar Registration App** from scratch handling **500+ registrations**, integrated **CCAvenue payments**, and automated **email & WhatsApp notifications**.
+- Developed **modern, responsive UI** from Figma designs and implemented **scalable RESTful APIs** improving system performance.
+- Strengthened team collaboration by following **clean code principles**, maintaining **Git workflows**, and contributing effectively in **Agile sprints**.
+
+---
+
 ### 🛠️ Languages and Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,mongodb,postgres,redis,docker,aws,git,java,linux,python,spring" />
