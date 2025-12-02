@@ -87,7 +87,7 @@
 <p align="left">
   <a href="https://twitter.com/sourabh_yalagod" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sourabh-yalagod" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sourabh9980/" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/sourabhyalagod" target="blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
